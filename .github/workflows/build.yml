@@ -5,7 +5,7 @@ on:
     paths:
     - 'src/Services/Coupon/**'
     - 'tests/Services/Coupon/**'
-    branches: [ main ]
+    branches: [ main ] 
 
 jobs:
   build-and-push-docker-image:
